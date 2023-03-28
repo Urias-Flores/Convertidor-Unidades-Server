@@ -15,5 +15,3 @@ def convertToKilogram(g):
 def convertToPounds(tone):
     modelo2
     return modelo2.predict([tone])
-
-print(type(convertToMeter(1.5)))
